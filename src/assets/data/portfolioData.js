@@ -1,4 +1,5 @@
 import portfolioImg01 from "../images/portfolio-01.jpeg";
+import portfolioImg10 from "../images/ninja-notes.jpeg";
 import portfolioImg02 from "../images/portfolio-02.jpg";
 import portfolioImg03 from "../images/portfolio-03.jpg";
 import portfolioImg04 from "../images/portfolio-04.jpg";
@@ -28,6 +29,17 @@ const portfolios = [
       "It’s a three layered architecture based project on Java programming using the concept of Data Layer,Business Layer and Presentation Layer with all the CRUD operations. The objective of this project is to maintain the record of Employees and their Designations.",
     technologies: ["Java", "Swing", "JDBC", "MySQL"],
     siteUrl: null,
+    youtubeSite: "#"
+  },
+  {
+    id: "10",
+    imgUrl: portfolioImg10,
+    category: "MERN",
+    title: "Ninja Notes",
+    description:
+      "College students often need help finding reliable, organised, and up-to-date study resources such as notes, blogs, and previous year questions (PYQs) that are critical for their academic success. Our platform offers a seamless experience, providing comprehensive study materials for students to excel academically.",
+    technologies: ["WebDev", "React", "MongoDb", "FullStack"],
+    siteUrl: "https://ninja-notes-psi.vercel.app",
     youtubeSite: "#"
   },
   {

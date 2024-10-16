@@ -19,7 +19,6 @@ const Hero = () => {
 
   return (
     <section id='about' className='pt-0'>
-
         <div className='container pt-14'>
             <div className='md:flex items-center justify-between sm:flex-col md:flex-row'>
             
@@ -89,7 +88,7 @@ const Hero = () => {
 
               <div className='mb-10'>
                 <h2 className=' text-smallTextColor font-[700] text-[32px]'>
-                  <CountUp start={0} end={94} duration={2} suffix='.4%'/>
+                  <CountUp start={0} end={96} duration={2} suffix='.4%'/>
                 </h2>
                 <h4  className=' text-smallTextColor font-[600] text-[18px]'>
                   12<sup>th</sup> CBSE Board 

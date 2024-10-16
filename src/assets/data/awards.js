@@ -5,6 +5,8 @@ import award4 from "../../assets/images/state-cricket.jpg"
 import award5 from "../../assets/images/nodal-cricket.jpg"
 import award6 from "../../assets/images/mdc.jpg"
 import award7 from "../../assets/images/CR.jpg"
+import codsoft from "../../assets/images/codsoft.png"
+import medecro from "../../assets/images/medecro.png"
 
 const awardsData = [
 
@@ -48,7 +50,22 @@ const awardsData = [
         categoty:"Coding",
         link: "https://drive.google.com/file/d/1BTiWqSAT2lp7_yoPeZp-P1WfWAsQBwcR/view?usp=drive_link",
       },  
-      
+      {
+        id: "11",
+        imgUrl: medecro,
+        title: "Medecro AI Hackathon",
+        description:"Our team Binary Brigade participated in Hackathon in virtual mode. Our team got shortlisted as FINALIST.",
+        categoty:"Coding",
+        link: "https://drive.google.com/file/d/1RfikQX6BaOyNLs5BpJ3cdKWbGbPAh4Tn/view?usp=drive_link",
+      },  
+      {
+        id: "10",
+        imgUrl: codsoft,
+        title: "Internship at CodSoft",
+        description:"It is a virtual one month internship and training program. I had a fresh and warming experience there and lot of learning.",
+        categoty:"Coding",
+        link: "https://drive.google.com/file/d/1RfikQX6BaOyNLs5BpJ3cdKWbGbPAh4Tn/view?usp=drive_link",
+      },
       {
         id: "06",
         imgUrl: award6,
@@ -66,7 +83,7 @@ const awardsData = [
         link: "https://drive.google.com/file/d/1BTiWqSAT2lp7_yoPeZp-P1WfWAsQBwcR/view?usp=drive_link",
       },
       {
-        id: "07",
+        id: "08",
         imgUrl: award1,
         title: "Full Stack Web Development ",
         description:"This is the full stack MERN course cetificate from CodeHelp. It was a 4.5 months course that covers every topics of frontend and backend development.",
