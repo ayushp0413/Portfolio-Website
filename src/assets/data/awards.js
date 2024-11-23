@@ -16,7 +16,7 @@ const awardsData = [
         title: "TEDx Managing Member",
         description:"It was my pleasure yo be part of organising commite for the first ever TEDx Ujjain 2023. It was organized by our college with sponsors like Shree Ganga, Chai Kaapi etc. at Ujjain Kalidas.",
         categoty:"Management",
-        link: "https://drive.google.com/file/d/1BTiWqSAT2lp7_yoPeZp-P1WfWAsQBwcR/view?usp=drive_link",
+        link: "https://drive.google.com/file/d/1swgOwX6Qm0-xEZoM6pU0A7G9r0-9cZpL/view?usp=sharing",
       },
       {
         id: "05",
@@ -24,7 +24,7 @@ const awardsData = [
         title: "State Cricket",
         description:"After winning the nodal cricket I was selected for the State team as a right arm medium pace bowler.Unfortunately we not end as a winning side.",
         categoty:"Sports",
-        link: "https://drive.google.com/file/d/1BTiWqSAT2lp7_yoPeZp-P1WfWAsQBwcR/view?usp=drive_link",
+        link: "https://drive.google.com/file/d/1-gE7ZJK-dY4fNfceY3MpnpPM8HpH7XWA/view?usp=sharing",
       },
       {
         id: "02",
@@ -40,7 +40,7 @@ const awardsData = [
         title: "Vice President at College",
         description:"I have been appointed as a Vice President of college for the 2023 academic year for my exellence in studies. I demonstrated my leadership quality and maturity as VC.",
         categoty:"Leadership",
-        link: "https://drive.google.com/file/d/1BTiWqSAT2lp7_yoPeZp-P1WfWAsQBwcR/view?usp=drive_link",
+        link: "https://drive.google.com/file/d/1Kc1WpghXY6nySHRbWFUkU8c3yQlEVlXS/view?usp=sharing",
       },
       {
         id: "04",
